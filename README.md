@@ -15,9 +15,13 @@ For this project you will need to create a storage account on Azure. Below is a 
 You can also have secondary and tertiary accounts for multiple purposes or backups.  
 ### PinUtilities.cs
 <b>POIContainer</b> : Azure Blob Container for map points of interest  
+### QRCode.cs
 <b>QRCodeContainer</b> : Azure Blob Container for QR Codes  
-<b>EventsContainer</b> : Azure Table for calandar events  
+### Product.cs
 <b>ProductsContainer</b> : Azure Blob Container for Products  
+### Events.cs
+<b>EventsContainer</b> : Azure Table for calandar events  
+### QuizGame.cs
 <b>TriviaContainer</b> : Azure Blob Container for Trivia Questions  
 ### UserUtilities.cs
 <b>containerName</b> : Azure Blob Container for Users   
