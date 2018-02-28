@@ -20,9 +20,7 @@ You can also have secondary and tertiary accounts for multiple purposes or backu
 <b>ProductsContainer</b> : Azure Blob Container for Products  
 <b>TriviaContainer</b> : Azure Blob Container for Trivia Questions  
 ### UserUtilities.cs
-<b>containerName</b> : Azure Blob Container for Users  
-### AdminUtilities.cs
-<b>containerName</b> : Azure Blob Container for Admins  
+<b>containerName</b> : Azure Blob Container for Users   
 ### RestHelper.cs
 <b>m_url</b> : Library Sierra server URL	AdminPanel  
 <b>m_authSecret</b> : Library Sierra general API Key	AdminPanel  
