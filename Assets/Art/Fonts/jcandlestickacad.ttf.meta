@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 463cc4c74efb07543a48ed2fb59d4d76
+timeCreated: 1506093944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jack's Candlestick Academy
+  fontNames:
+  - Jack's Candlestick Academy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e7e3eabc3f30e534b8075eaa6cf5ca1d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

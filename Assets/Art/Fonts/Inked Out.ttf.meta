@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b0926feacf541e843a7352c2555c03cb
+timeCreated: 1506093945
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Inked Out
+  fontNames:
+  - Inked Out
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: af5b1dee564e6b84389beaf26ffd04e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

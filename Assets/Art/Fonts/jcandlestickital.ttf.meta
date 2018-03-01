@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 03eca029e1e08f647970c8b7fc5ea123
+timeCreated: 1506093944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jack's Candlestick Italic
+  fontNames:
+  - Jack's Candlestick Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bd02b75c5ab11c549be33d21681110ec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

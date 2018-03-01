@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cc25ce36d062f2541a9679b2373f238c
+timeCreated: 1506093945
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Komika Axis
+  fontNames:
+  - Komika Axis
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7d4764b72e0fd76479950e83c3edf029, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

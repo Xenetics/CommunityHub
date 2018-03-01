@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ebaebaf4af253444cbb404760129f659
+timeCreated: 1506093946
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Celestia
+  fontNames:
+  - Celestia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c805fbaaff14eed45a681e4d26cdec57, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

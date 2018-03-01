@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eefff237eba1a5247b987ec7b1c68caf
+timeCreated: 1506093947
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vladimir Script
+  fontNames:
+  - Vladimir Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4a2b8f1a1a8568a42afc2a89265fb204, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

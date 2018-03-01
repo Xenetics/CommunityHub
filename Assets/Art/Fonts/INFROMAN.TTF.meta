@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 38d8a7975b9a6444abe603f1108899ce
+timeCreated: 1506093944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Informal Roman
+  fontNames:
+  - Informal Roman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 939c14feacbbb5649bd19d642f8c0689, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

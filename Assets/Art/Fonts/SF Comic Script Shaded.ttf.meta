@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0711554f7934c3d47a97e3f6c65c4aa4
+timeCreated: 1506093944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Comic Script Shaded
+  fontNames:
+  - SF Comic Script Shaded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eda08514c8934154e8587006773bcb7b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

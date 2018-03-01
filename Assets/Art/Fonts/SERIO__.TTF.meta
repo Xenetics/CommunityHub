@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a4e70436eeccec647bebe385b43249e3
+timeCreated: 1506093945
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SeriesOrbit
+  fontNames:
+  - SeriesOrbit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 675d5d8e18e84ac40a5a8e56a80b741b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

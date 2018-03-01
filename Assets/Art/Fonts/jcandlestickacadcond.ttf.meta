@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d637e373d05f5824eb00b9b4f1bdd39c
+timeCreated: 1506093946
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jack's Candlestick Academy Condensed
+  fontNames:
+  - Jack's Candlestick Academy Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 048156077c1e4ca48b496daea0181787, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

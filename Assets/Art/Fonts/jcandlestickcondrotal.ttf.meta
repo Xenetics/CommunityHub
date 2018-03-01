@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a62a443bd73c9814aa152c7b2a1029ac
+timeCreated: 1506093945
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jack's Candlestick Condensed Rotalic
+  fontNames:
+  - Jack's Candlestick Condensed Rotalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 664adb11395b2cd4e8c8e8757382f3d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

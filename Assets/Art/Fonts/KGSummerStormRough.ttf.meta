@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8bb5b143c04727f419ef0b033d2db9ad
+timeCreated: 1506093945
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG Summer Storm Rough
+  fontNames:
+  - KG Summer Storm Rough
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01ca58dd5ac82a149acaa20531b017b8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
