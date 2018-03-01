@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1aaa5bf09e8aba7408ad6ad5f988c55b
+timeCreated: 1506015851
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: French Script MT
+  fontNames:
+  - French Script MT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

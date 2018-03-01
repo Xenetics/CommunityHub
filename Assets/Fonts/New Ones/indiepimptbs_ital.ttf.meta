@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b66c7b1d09ad83744aea68564d8cda03
+timeCreated: 1506015852
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Indy Pimp
+  fontNames:
+  - Indy Pimp
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64c3c2aa93d9dbf48acc87f22d64d8cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

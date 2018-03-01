@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 359af2c37553b05458ed48b7b89d2d61
+timeCreated: 1506015851
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jack's Candlestick Extra-condensed
+  fontNames:
+  - Jack's Candlestick Extra-condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
