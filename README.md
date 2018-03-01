@@ -28,3 +28,5 @@ You can also have secondary and tertiary accounts for multiple purposes or backu
 ### RestHelper.cs
 <b>m_url</b> : Library Sierra server URL	AdminPanel  
 <b>m_authSecret</b> : Library Sierra general API Key	AdminPanel  
+
+All contents of repository are considered fair use under MIT licensing.
